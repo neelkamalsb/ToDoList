@@ -1,3 +1,4 @@
 # ToDoList
 C++ Program for personal maintaining personal to do list.
-Used Concept of Queue and Singly linked List.
+---------------------------------------------------------
+Used Concept of Priority Queue and Singly linked List.
